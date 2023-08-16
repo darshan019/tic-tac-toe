@@ -1,7 +1,7 @@
 # tic-tac-toe
 
-Made for Odin Project, using HTML, CSS, Javascript
+# Made for Odin Project, using HTML, CSS, Javascript
 
-This is a two-player game
+# This is a two-player game
 
-live site: https://darshan019.github.io/tic-tac-toe/
+# Live site: [here](https://darshan019.github.io/tic-tac-toe/)
